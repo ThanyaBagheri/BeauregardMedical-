@@ -39,11 +39,5 @@ Then user verifies if "PATIENTS" tab exists
 Then user clicks on "PATIENTS" tab
 Then user verifies if "PATIENT PORTAL" tab (under "PATIENTS" tab) exists
 Then user clicks on "PATIENT PORTAL" tab
-And user verifies if "View your health record(login to see your reports)" tab exists 
-And user clicks on View your health record(login to see your reports)" tab
-Then user verifies if Login box exists
-Then user verifies "Using Mobile Phone" checkbox exists
-Then user clicks on "Using Mobile Phone" checkbox
-Then user fill up an valid email address, valid password, and valid date of birth. 
-And user verifies if "Login" buttom exists
-Then user click on "Login" buttom
+Second try to push to master from Paul
+
