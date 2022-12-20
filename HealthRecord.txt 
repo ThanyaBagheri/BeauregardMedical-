@@ -31,3 +31,5 @@ Then user clicks on "Using Mobile Phone" checkbox
 Then user fill up an valid email address, valid password, and valid date of birth. 
 And user verifies if "Login" buttom exists
 Then user click on "Login" buttom
+
+Scenario: Majid is making some changes 
